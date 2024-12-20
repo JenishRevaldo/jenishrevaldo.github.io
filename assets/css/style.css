@@ -958,7 +958,7 @@ section {
 
 .certificate img {
   width: 100%;
-  height: auto;
+  height: 90%;
   box-shadow: 0 4px 6px rgb(0, 0, 0); 
 }
 
